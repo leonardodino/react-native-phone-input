@@ -1,5 +1,5 @@
 {
-  "name": "react-native-phone-input",
+  "name": "@leonardodino/react-native-phone-input",
   "version": "0.1.9",
   "description": "Phone input box for React Native",
   "main": "lib/index.js",
