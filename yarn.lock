@@ -28,9 +28,9 @@ fbjs@^0.8.16:
     setimmediate "^1.0.5"
     ua-parser-js "^0.7.9"
 
-google-libphonenumber@^2.0.9:
-  version "2.0.19"
-  resolved "https://registry.yarnpkg.com/google-libphonenumber/-/google-libphonenumber-2.0.19.tgz#a6d5ff60412aa33b161bb830d70aa39682583054"
+google-libphonenumber@^3.0.6:
+  version "3.0.6"
+  resolved "https://registry.yarnpkg.com/google-libphonenumber/-/google-libphonenumber-3.0.6.tgz#0b72a047736873f2e6b118ebff32f9640b1dd18d"
 
 iconv-lite@~0.4.13:
   version "0.4.19"
